@@ -1,0 +1,35 @@
+/********Shannon's Advice********/
+.shannono-advice,body {
+  color:#fff;
+  padding: 25px;
+  margin: 0 auto;
+  background-color: lightsteelblue;
+  font-family: sans-serif;
+}
+.shannono-advice, h1, h2 {
+  font-family:'Lobster', cursive;
+  text-align: center;
+}
+.shannono-advice, h1 {
+  margin-top: 10px;
+  font-size: 50px;
+  color: #020202;
+}
+.shannono-advice, h2 {
+  font-size: 40px;
+  margin: 10px;
+}
+.shannono-advice, p {
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+.shannono-advice. a {
+  text-decoration: underline;
+  color: gray;
+}
+.shannono-advice, a:hover {
+  font-weight: yellow;
+}
+
+/*End Shannon **/
